@@ -1,2 +1,5 @@
-0 string SCHOOL School data
+0 string SCHOOL School data >school.mgc
+
+cd 0x00-shell_basics
+echo 0 string SCHOOL School data
 !:mime School
